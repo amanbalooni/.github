@@ -62,12 +62,21 @@ Design Strategy       │ Design Thinking & Innovation
 
 ---
 
+## 🏆 Certifications & Recognition
+
+- ✅ **Google Certification for UI/UX** — Verified expertise in user-centered design principles and industry best practices
+
+---
+
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=website)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=website)](https://abstudios.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanbalooni)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/amanbalooni)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/amanbalooni)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amanbalooni)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amanbalooni)
+[![CodePen](https://img.shields.io/badge/-CodePen-000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/amanbalooni)
 
 ---
 
@@ -80,11 +89,30 @@ Design Strategy       │ Design Thinking & Innovation
 
 ---
 
-## 📬 Let's Collaborate
+## 🤝 Let's Work Together
 
-I'm always interested in discussing innovative design challenges, enterprise UX opportunities, or mentoring fellow designers. Feel free to reach out!
+I'm actively available for:
+- 💼 **Full-Time Opportunities** — Looking for senior design roles in innovative companies
+- 🎯 **Freelance Projects** — Open to contract work and project-based engagements
+- 🤝 **Collaborations** — Interested in partnerships with founders, agencies, and creative teams
+- 👨‍🏫 **Mentoring** — Happy to guide aspiring designers on their journey
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+---
+
+## 📬 Get In Touch
+
+Let's discuss your next design challenge or exciting opportunity!
+
+**Email:** [balooni.aman1991@gmail.com](mailto:balooni.aman1991@gmail.com)
+**Portfolio:** [abstudios.com](https://abstudios.com)
+
+---
+
+## 📈 GitHub Activity
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanbalooni&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbalooni&layout=compact&theme=dark)
 
 ---
 
