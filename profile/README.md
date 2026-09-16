@@ -2,6 +2,8 @@
 
 **Senior UI/UX Designer** | Design Systems Specialist | Digital Experience Architect
 
+> *Welcome to an interface where innovation meets intuition, where pixels paint experiences, and where every click echoes a story.*
+
 ---
 
 ## 🎯 About Me
@@ -10,23 +12,31 @@ With **7+ years of UI/UX design expertise** and **10 years in IT**, I craft intu
 
 ---
 
-## 💼 Selected Work
+## 💼 Featured Projects
 
-### 01 — **NutriGuard AI**
-*Food Safety & Nutrition App*
-Designed an intelligent mobile experience that simplifies food tracking and nutritional guidance using AI-powered insights.
+### 01 — **IngredLens**
+*AI-Powered Food Intelligence App*
+Simply scan a food product and instantly understand its ingredients, nutrition, and potential concerns — personalized for you. Designed an intuitive mobile interface that makes health-conscious decisions effortless.
 
-### 02 — **Enterprise Expense Platform**
-*Fintech / Enterprise SaaS*
-Architected a comprehensive expense management system serving enterprise clients with streamlined workflows and real-time analytics.
+### 02 — **Life Bridge - Community Care Management**
+*Healthcare & Community Platform*
+Connecting caregivers and care receivers through a centralized platform. Streamlined scheduling, tracking, and communication to make caregiving more organized and efficient.
 
-### 03 — **Healthcare Platform**
-*Healthcare UX*
-Developed an accessible, HIPAA-compliant healthcare interface improving patient engagement and clinical workflows.
+### 03 — **Turismo Transports**
+*Transportation & Travel UX*
+Engineered a seamless travel booking experience with intuitive navigation and streamlined user flows for transportation services.
 
-### 04 — **AI-Native Enterprise**
-*AI / SaaS Experience*
-Led design strategy for an enterprise platform integrating cutting-edge AI capabilities with intuitive user interfaces.
+### 04 — **CKE Restaurants**
+*Hospitality & Consumer Experience*
+Designed a modern, engaging digital experience for one of the world's leading restaurant chains, enhancing customer engagement and ordering flows.
+
+### 05 — **CredX**
+*Premium Fintech Platform*
+A sophisticated enterprise expense management solution designed for financial professionals. Built with complex workflows, real-time analytics, and intuitive financial interfaces.
+
+### 06 — **Life at Zenesys**
+*Corporate & Culture Platform*
+Created an internal digital space celebrating company culture, employee engagement, and organizational communication at a growing tech enterprise.
 
 ---
 
@@ -58,6 +68,7 @@ Design Strategy       │ Design Thinking & Innovation
 - **7+** Years of UI/UX Design Experience
 - **10+** Years in IT & Digital Products
 - **50+** Design Projects Delivered
+- **6** Featured Projects Showcasing Diverse Industries
 - **100%** Commitment to User-Centered Design
 
 ---
